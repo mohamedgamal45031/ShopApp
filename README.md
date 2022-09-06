@@ -1,4 +1,4 @@
-# shop-Cubit
+# ShopApp
 
 A new Flutter project to create a simple shop with cubit state-management
 
